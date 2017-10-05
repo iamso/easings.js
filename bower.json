@@ -1,0 +1,34 @@
+{
+  "name": "easings.js",
+  "version": "0.1.0",
+  "description": "Javascript easing functions.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamso/easings.js.git"
+  },
+  "authors": [
+    "Steve Ottoz <so@dev.so>"
+  ],
+  "main": "dist/easings.next.js",
+  "license": "MIT",
+  "homepage": "https://github.com/iamso/easings.js",
+  "ignore": [
+    ".bower.json",
+    ".config",
+    ".editorconfig",
+    ".git",
+    ".gitattributes",
+    ".gitignore",
+    "demo",
+    "doc",
+    "extensions",
+    "gulpfile.js",
+    "node_modules",
+    "src"
+  ],
+  "keywords": [
+    "easing",
+    "functions"
+  ],
+  "dependencies": {}
+}

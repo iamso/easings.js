@@ -1,0 +1,17 @@
+{
+  "name": "easings.js",
+  "repository": "iamso/easings.js",
+  "description": "Javascript easing functions.",
+  "version": "0.1.0",
+  "keywords": [
+    "easing",
+    "functions"
+  ],
+  "scripts": [
+    "dist/easings.js",
+    "dist/easings.min.js",
+    "dist/easings.next.js",
+    "dist/easings.next.min.js"
+  ],
+  "license": "MIT"
+}

@@ -5,14 +5,6 @@ Javascript easing functions. Taken from here: https://gist.github.com/rezoner/71
 Install
 -------
 
-### With Bower
-
-```bash
-bower install easings.js
-```
-
-### With NPM
-
 ```bash
 npm install easings.js
 ```

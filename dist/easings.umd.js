@@ -1,5 +1,5 @@
 /*!
- * easings.js - version 0.2.0
+ * easings.js - version 0.3.0
  *
  * Made with ❤ by Steve Ottoz so@dev.so
  *
